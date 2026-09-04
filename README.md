@@ -1,2 +1,0 @@
-# mukti
-simple website
